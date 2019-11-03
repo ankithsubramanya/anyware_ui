@@ -1,0 +1,26 @@
+{
+  "name": "anyware_api",
+  "version": "1.0.0",
+  "description": "Anyware api",
+  "main": "index.js",
+  "engines": {
+    "node": "10.3.0"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NULL (Karan Abrol, Ankith Subramanya, Ivan Abregana)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "es6": "0.0.7",
+    "express": "^4.16.4",
+    "mysql": "^2.17.0",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  }
+}
