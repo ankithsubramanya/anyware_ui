@@ -9,7 +9,7 @@
     "debug": "nodemon --inspect"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cluster": "^0.7.7",
     "fs": "0.0.1-security",
     "npm-gui": "^1.0.7",
