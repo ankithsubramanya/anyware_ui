@@ -15,7 +15,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "es6": "0.0.7",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mysql": "^2.17.0",
     "nodemon": "^1.18.11"
   },
